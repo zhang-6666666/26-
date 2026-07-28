@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "MSPM0 TI-OpenOCD DAPLink",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/Debug/car.out",
+            "request": "launch",
+            "type": "cortex-debug",
+            "runToEntryPoint": "main",
+            "servertype": "openocd",
+            "gdbPath": "/home/hua/.config/Texas Instruments/ti-embedded-debug/arm-none-eabi-gdb/14.2.rel1.1/arm-none-eabi-gdb",
+            "serverpath": "/home/hua/.config/Texas Instruments/ti-embedded-debug/openocd/1.5.0.75/bin/openocd",
+            "searchDir": [
+                "/home/hua/.config/Texas Instruments/ti-embedded-debug/openocd/1.5.0.75/share/openocd/scripts"
+            ],
+            "openOCDLaunchCommands": [
+                "adapter speed 10000"
+            ],
+            "configFiles": [
+                "interface/cmsis-dap.cfg",
+                "target/ti_mspm0.cfg"
+            ],
+            "interface": "swd"
+        },
+    ]
+}

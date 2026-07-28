@@ -1,0 +1,32 @@
+[
+   {
+      "directory" : "/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom\" -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "/home/hua/workspace_ccstheia/Line_Follow+Odom/APP/ENCODER/encoder.c"
+   },
+   {
+      "directory" : "/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom\" -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "/home/hua/workspace_ccstheia/Line_Follow+Odom/APP/LINE/line.c"
+   },
+   {
+      "directory" : "/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom\" -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "/home/hua/workspace_ccstheia/Line_Follow+Odom/APP/MOTOR/motor.c"
+   },
+   {
+      "directory" : "/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom\" -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "/home/hua/workspace_ccstheia/Line_Follow+Odom/APP/TIMER/timer.c"
+   },
+   {
+      "directory" : "/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom\" -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug/ti_msp_dl_config.c"
+   },
+   {
+      "directory" : "/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom\" -I\"/home/hua/workspace_ccstheia/Line_Follow+Odom/Debug\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "/home/hua/workspace_ccstheia/Line_Follow+Odom/empty.c"
+   }
+]

@@ -1,0 +1,22 @@
+[
+   {
+      "directory" : "/home/hua/workspace_ccstheia/按键/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"/home/hua/workspace_ccstheia/按键/WIT\" -I\"/home/hua/workspace_ccstheia/按键/PID\" -I\"/home/hua/workspace_ccstheia/按键/CONTROL\" -I\"/home/hua/workspace_ccstheia/按键/CAMERA\" -I\"/home/hua/workspace_ccstheia/按键\" -I\"/home/hua/workspace_ccstheia/按键/Debug\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "/home/hua/workspace_ccstheia/按键/APP/MOTOR/motor.c"
+   },
+   {
+      "directory" : "/home/hua/workspace_ccstheia/按键/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"/home/hua/workspace_ccstheia/按键/WIT\" -I\"/home/hua/workspace_ccstheia/按键/PID\" -I\"/home/hua/workspace_ccstheia/按键/CONTROL\" -I\"/home/hua/workspace_ccstheia/按键/CAMERA\" -I\"/home/hua/workspace_ccstheia/按键\" -I\"/home/hua/workspace_ccstheia/按键/Debug\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "/home/hua/workspace_ccstheia/按键/APP/TIMER/timer.c"
+   },
+   {
+      "directory" : "/home/hua/workspace_ccstheia/按键/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"/home/hua/workspace_ccstheia/按键/WIT\" -I\"/home/hua/workspace_ccstheia/按键/PID\" -I\"/home/hua/workspace_ccstheia/按键/CONTROL\" -I\"/home/hua/workspace_ccstheia/按键/CAMERA\" -I\"/home/hua/workspace_ccstheia/按键\" -I\"/home/hua/workspace_ccstheia/按键/Debug\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "/home/hua/workspace_ccstheia/按键/empty.c"
+   },
+   {
+      "directory" : "/home/hua/workspace_ccstheia/按键/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"/home/hua/workspace_ccstheia/按键/WIT\" -I\"/home/hua/workspace_ccstheia/按键/PID\" -I\"/home/hua/workspace_ccstheia/按键/CONTROL\" -I\"/home/hua/workspace_ccstheia/按键/CAMERA\" -I\"/home/hua/workspace_ccstheia/按键\" -I\"/home/hua/workspace_ccstheia/按键/Debug\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"/home/hua/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"/home/hua/ti/ccs2100/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "/home/hua/workspace_ccstheia/按键/Debug/ti_msp_dl_config.c"
+   }
+]
